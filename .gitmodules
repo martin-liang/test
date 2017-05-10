@@ -1,0 +1,3 @@
+[submodule "test/crab"]
+	path = test/crab
+	url = https://github.com/martin-liang/crab.git
